@@ -15,4 +15,3 @@ windows版本链接：[[https://registry.npmmirror.com/-/binary/git-for-windows/
 团队协作：多人可并行开发，通过合并（Merge）或变基（Rebase）集成代码
 分布式架构：每个开发者都拥有完整的项目历史，支持离线工作。
 
-测试是否成功
