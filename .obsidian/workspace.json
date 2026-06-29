@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git——一切都是本地的/学习git.md",
+                "file": "Git分布式版本控制工具.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习git 的大纲"
+              "title": "Git分布式版本控制工具 的大纲"
             }
           }
         ],
