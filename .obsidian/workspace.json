@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git分布式版本控制工具.md",
+                "file": "Git学习笔记/Git分布式版本控制工具.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,17 +185,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "923afb5ee78875f6",
+  "active": "28db8cd029df01fb",
   "lastOpenFiles": [
-    "git基本命令.png",
+    "Git学习笔记",
+    "Git学习笔记/git基本命令.png",
+    "Git学习笔记/Git分布式版本控制工具.md",
     "git流程图.png",
-    "Git分布式版本控制工具.md",
     "Pasted image 20260630125308.png",
     "{9856400E-DAD9-413C-93A1-BA6A2F44E9D0}.png",
     "Git分布式版本控制工具/未命名.md",
     "Git分布式版本控制工具/学习git.md",
     "未命名.base",
-    "未命名",
     "Git分布式版本控制工具",
     "创建链接.md",
     "欢迎.md"
