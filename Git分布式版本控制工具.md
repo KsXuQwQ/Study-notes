@@ -39,21 +39,33 @@ git clone 拷贝一份远程仓库，也就是下载一个项目
 ```
 # Git基础命令
 
-git工作目录下对文件的修改（添加，删除、更新）会存在几个状态，这些修改的状态会随着我们执行git命令而发生变化
+一个简单的流程
+```
+$ git init    
+$ git add .    
+$ git commit 
+```
 
-| 命令                                                                           | 说明                   |
-| ---------------------------------------------------------------------------- | -------------------- |
-| [git add]                                                                    | 添加文件到暂存区             |
-| [git status]                                                                 | 查看仓库当前的状态，显示有变更的文件。  |
-| [git diff]                                                                   | 比较文件的不同，即暂存区和工作区的差异。 |
-| [git difftool]                                                               | 使用外部差异工具查看和比较文件的更改。  |
-| [git range-diff]                                                             | 比较两个提交范围之间的差异。       |
-| [git commit]                                                                 | 提交暂存区到本地仓库。          |
-| [git reset]                                                                  | 回退版本。                |
-| [git rm]                                                                     | 将文件从暂存区和工作区中删除。      |
-| [git mv]                                                                     | 移动或重命名工作区文件。         |
-| [git notes]                                                                  | 添加注释。                |
-| [git checkout]                                                               | 分支切换。                |
-| [git switch]                                                                 | 更清晰地切换分支。            |
-| `[git restore](https://www.runoob.com/git/git-restore.html) （Git 2.23 版本引入）` | 恢复或撤销文件的更改。          |
-| `[git show](https://www.runoob.com/git/git-show.html)`                       | 显示 Git 对象的详细信息。      |
+git工作目录下对文件的修改（添加，删除、更新）会存在几个状态，这些修改的状态会随着我们执行git命令而发生变化
+![[git基本命令.png]]
+- workspace：工作区
+- staging area：暂存区/缓存区
+- local repository：版本库或本地仓库
+- remote repository：远程仓库
+
+| 命令               | 说明                   |
+| ---------------- | -------------------- |
+| [git add]        | 添加文件到暂存区             |
+| [git status]     | 查看仓库当前的状态，显示有变更的文件。  |
+| [git diff]       | 比较文件的不同，即暂存区和工作区的差异。 |
+| [git difftool]   | 使用外部差异工具查看和比较文件的更改。  |
+| [git range-diff] | 比较两个提交范围之间的差异。       |
+| [git commit]     | 提交暂存区到本地仓库。          |
+| [git reset]      | 回退版本。                |
+| [git rm]         | 将文件从暂存区和工作区中删除。      |
+| [git mv]         | 移动或重命名工作区文件。         |
+| [git notes]      | 添加注释。                |
+| [git checkout]   | 分支切换。                |
+| [git switch]     | 更清晰地切换分支。            |
+| [git restore]    | 恢复或撤销文件的更改。          |
+| [git show]       | 显示 Git 对象的详细信息。      |
