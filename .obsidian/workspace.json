@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git学习笔记/Git分布式版本控制工具.md",
+                "file": "苍穹外卖学习流程笔记/苍穹外卖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git分布式版本控制工具"
+              "title": "苍穹外卖"
             }
           }
         ]
@@ -185,11 +185,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "28db8cd029df01fb",
+  "active": "923afb5ee78875f6",
   "lastOpenFiles": [
+    "苍穹外卖学习流程笔记",
+    "Git学习笔记/Git分布式版本控制工具.md",
+    "苍穹外卖学习流程笔记/苍穹外卖.md",
     "Git学习笔记",
     "Git学习笔记/git基本命令.png",
-    "Git学习笔记/Git分布式版本控制工具.md",
     "git流程图.png",
     "Pasted image 20260630125308.png",
     "{9856400E-DAD9-413C-93A1-BA6A2F44E9D0}.png",
