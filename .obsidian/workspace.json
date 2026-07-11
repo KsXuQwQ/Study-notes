@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "苍穹外卖学习流程笔记/苍穹外卖.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git——一切都是本地的/学习git.md",
+                "file": "苍穹外卖学习流程笔记/苍穹外卖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "学习git 的反向链接列表"
+              "title": "苍穹外卖 的反向链接列表"
             }
           },
           {
@@ -165,13 +165,11 @@
               "title": "Git分布式版本控制工具 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
