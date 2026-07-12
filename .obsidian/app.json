@@ -1,7 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "showLineNumber": true,
   "spellcheck": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "focusNewTab": false
 }
