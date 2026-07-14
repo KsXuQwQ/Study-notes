@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股文.md",
-                "mode": "source",
+                "file": "苍穹外卖学习流程笔记/苍穹外卖.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "八股文"
+              "title": "苍穹外卖"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "923afb5ee78875f6",
   "lastOpenFiles": [
-    "苍穹外卖学习流程笔记/苍穹外卖.md",
     "八股文.md",
+    "苍穹外卖学习流程笔记/苍穹外卖.md",
     "未命名",
     "Git学习笔记/Git分布式版本控制工具.md",
     "Git学习笔记/git基本命令.png",
