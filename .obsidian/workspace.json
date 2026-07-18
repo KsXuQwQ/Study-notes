@@ -156,22 +156,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git分布式版本控制工具.md",
+                "file": "苍穹外卖学习流程笔记/苍穹外卖.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git分布式版本控制工具 的大纲"
+              "title": "苍穹外卖 的大纲"
+            }
+          },
+          {
+            "id": "2d76d2c8e5862f51",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
